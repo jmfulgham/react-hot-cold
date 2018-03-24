@@ -1,4 +1,4 @@
-# React hot or cold solution
+# React hot or cold exercise
 
-[GitHub](https://github.com/Thinkful-Ed/react-hot-cold)
+
 
